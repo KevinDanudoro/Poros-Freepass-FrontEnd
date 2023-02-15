@@ -18,7 +18,7 @@ Hal yang perlu diperhatikan `(requirement)` jika memilih tema ini :
  >1. Gunakan Weather API untuk mengembangkan aplikasi (example: [weatherapi.com](https://www.weatherapi.com/docs/)) 
  >2. Tambahkan error handling (example: Toast/Alert/Notification)
 
-    * Diperbolehkan menggunakan Weather API lainnya
+**Diperbolehkan menggunakan Weather API lainnya**
 
 ### :ledger: To-Do List App
 Hal yang perlu diperhatikan `(requirement)` jika memilih tema ini :
@@ -31,13 +31,17 @@ Hal yang perlu diperhatikan `(requirement)` jika memilih tema ini :
 
 Repository ini sudah terintegrasi dengan Vite JS sebagai *Development Environment* untuk *React JS*. Peserta *freepass challenge* diperbolehkan **(tidak wajib)** untuk menggunakan kode pada repo ini sebagai kerangka kerja awal.
 
+>Kode pada repo ini dibangun dengan :
+    * node 	-> v16.17.0
+    * npm 	-> v8.15.0
+
 ## :hourglass_flowing_sand: Deadline
 
 Batas waktu pengumpulan *Free Pass Challenge* ini adalah pada **Rabu, 22 Februari 2023** pukul **23:59 WIB**
 
 ## :postbox: Submission
 
-Bagi peserta yang sudah menyelesaikan salah satu dari ketiga tantangan di atas maka dipersilahkan untuk mengisi form pengumpulan tugas berikut ini: 	 [Submission Form](form.google.com) 
+Bagi peserta yang sudah menyelesaikan salah satu dari ketiga tantangan di atas maka dipersilahkan untuk mengisi form pengumpulan tugas berikut ini: 	 [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeN78-NlLW-uI5VZp83BfCHaLbZP86s9tzsHlEkLk526MEBgg/viewform) 
 
 ## :warning: Attention
 
