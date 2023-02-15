@@ -1,4 +1,4 @@
-﻿# :art: POROS 2023: Front-End Free Pass Challenge 
+# :art: POROS 2023: Front-End Free Pass Challenge 
 
 **Front-End Free Pass Challenge** merupakan salah satu jalur penerimaan calon anggota baru Divisi Front-End, Departemen Research and Development, POROS 2023. Pada *free pass challange* kali ini calon anggota diminta untuk menyelesaikan salah satu tantangan/challenge yang sudah disediakan di bawah. 
 
