@@ -31,9 +31,7 @@ Hal yang perlu diperhatikan `(requirement)` jika memilih tema ini :
 
 Repository ini sudah terintegrasi dengan Vite JS sebagai *Development Environment* untuk *React JS*. Peserta *freepass challenge* diperbolehkan **(tidak wajib)** untuk menggunakan kode pada repo ini sebagai kerangka kerja awal.
 
->Kode pada repo ini dibangun dengan :
-    * node 	-> v16.17.0
-    * npm 	-> v8.15.0
+>Vite kompatibel pada : * node 	-> v14.8+ atau v16+ [Vite Docs](https://vitejs.dev/)
 
 ## :hourglass_flowing_sand: Deadline
 
