@@ -5,7 +5,7 @@
 
 ## :surfer: Challenge 
 
-Pada free pass challenge kali ini terdapat 3 tema aplikasi yang dapat peserta pilih, yaitu **weather app** dan **todo-list app**. Terdapat pula beberapa hal yang dapat menjadi perhatian `(requirement)` guna memaksimalkan nilai pengerjaan tantangan ini :
+Pada free pass challenge kali ini terdapat 2 tema aplikasi yang dapat peserta pilih, yaitu **weather app** dan **todo-list app**. Terdapat pula beberapa hal yang dapat menjadi perhatian `(requirement)` guna memaksimalkan nilai pengerjaan tantangan ini :
 
 > 1. Menggunakan framework/library React JS
 > 2. Implementasi State Management System
